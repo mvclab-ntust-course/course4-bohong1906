@@ -18,7 +18,7 @@ https://public.roboflow.com/object-detection/mask-wearing/4
 ![alt text](image.png)
 
 testset 測試結果：
-![alt text](image-2.png)
+![alt text](image-1.png)
 
 原先testset labels：
-![alt text](image-1.png)
+![alt text](image-2.png)
