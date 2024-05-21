@@ -15,10 +15,10 @@ https://public.roboflow.com/object-detection/mask-wearing/4
 訓練和測試結果會被放在/runs的資料夾
 
 ## 訓練結果：
-![alt text](HW2\runs\detect\train\results.png)
+![alt text](\runs\detect\train\results.png)
 
 testset 測試結果：
-![alt text](HW2\runs\detect\train\val_batch0_pred.jpg)
+![alt text](\runs\detect\train\val_batch0_pred.jpg)
 
 原先testset labels：
-![alt text](HW2\runs\detect\train\val_batch0_labels.jpg)
+![alt text](\runs\detect\train\val_batch0_labels.jpg)
